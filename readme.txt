@@ -4,6 +4,7 @@
 
 免费梯子网站：
 （getfree.cloud) getfree.cloud
+（免费EDU学术引擎） wangzi.edu.pl
 （好棒的羊毛站） haobang.me （自用SSR订阅地址： https://miniature-instant-furniture-song.trycloudflare.com）
 （t.me/SSRSUB） t.me/SSRSUB （自用SSR订阅地址： https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub）
 
@@ -16,7 +17,7 @@
 （云图小镇） yuntu.ca
 （心阶） xinjiecloud.com （注册时可能需要邀请码，邀请码：enshanluntan6663dWZVYGcllK3FTmDggEaSxdXGmzhDE3r）
 （红杏） redyun.cc （注册时可能需要邀请码，邀请码：isa）
-（ssoss） ssoss.xyz （注册时可能需要邀请码，邀请码：4D110788DCA8）（需通过其他代理以海外IP即[全局代理模式]重新访问）
+（ssoss） srsrsr.xyz （注册时可能需要邀请码，邀请码：4D110788DCA8）（需通过其他代理以海外IP即[全局代理模式]重新访问）
 （梯梯VPN） tt521.vip （需通过Google_Chrome浏览器访问，下载地址： https://www.google.cn/chrome/）
 （X-AIR机场） x-air.icu （注册时可能需要邀请码，邀请码：580FAF6492F4）
 （Nexitally） nexitcore.com 
