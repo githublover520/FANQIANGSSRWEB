@@ -12,7 +12,7 @@
 （西部云） ssrvpn.cn 
 （ssrcloud） cxkcloud.com 
 （DlerCloud） dlercloud.me
-（ssr云加速） ohssr.us
+（ssr云加速） ohssr.in
 （云图小镇） yuntu.ca
 （心阶） xinjiecloud.com （注册时可能需要邀请码，邀请码：enshanluntan6663dWZVYGcllK3FTmDggEaSxdXGmzhDE3r）
 （红杏） redyun.cc （注册时可能需要邀请码，邀请码：isa）
