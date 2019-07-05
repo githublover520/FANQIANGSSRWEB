@@ -9,7 +9,7 @@
 （t.me/SSRSUB） t.me/SSRSUB （自用SSR订阅地址： https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub）
 
 收费梯子网站：
-（喵帕斯） 喵帕斯.com （网站编码地址： xn--i2ru8q2qg.com） （注册时可能需要邀请码，邀请码：CrcMAc9kVmsXWtUJpwIFzo4UwCrf874N） （需通过其他代理以海外IP即[全局代理模式]重新访问）
+（喵帕斯） 喵帕斯.com （网站编码地址： xn--i2ru8q2qg.com） （注册时可能需要邀请码，邀请码：CrcMAc9kVmsXWtUJpwIFzo4UwCrf874N） 
 （西部云） ssrvpn.cn 
 （ssrcloud） cxkcloud.com 
 （DlerCloud） dlercloud.me
@@ -17,7 +17,7 @@
 （云图小镇） yuntu.ca
 （心阶） xinjiecloud.com （注册时可能需要邀请码，邀请码：enshanluntan6663dWZVYGcllK3FTmDggEaSxdXGmzhDE3r）
 （红杏） redyun.cc （注册时可能需要邀请码，邀请码：isa）
-（ssoss） srsrsr.xyz （注册时可能需要邀请码，邀请码：4D110788DCA8）（需通过其他代理以海外IP即[全局代理模式]重新访问）
+（ssoss） srsrsr.xyz （注册时可能需要邀请码，邀请码：4D110788DCA8）
 （梯梯VPN） tt521.vip （需通过Google_Chrome浏览器访问，下载地址： https://www.google.cn/chrome/）
 （X-AIR机场） x-air.icu （注册时可能需要邀请码，邀请码：580FAF6492F4）
 （Nexitally） nexitcore.com 
@@ -26,8 +26,8 @@
 （Vetoo） dally.me
 （Phantom） phantom-n.com
 （一元机场ssr） onessr.me
-（蓝岸） 蓝岸.com （需通过其他代理以海外IP即[全局代理模式]重新访问）
+（蓝岸） 蓝岸.com 
 （v2raypro） v2ray-pro.xyz 
 
-（DuyaoSS-毒药机场简介） duyaoss.com （只是一个境外服务器（用来搭私人专线）与梯子的分享网站，需科学上网）
+（DuyaoSS-毒药机场简介） duyaoss.com （只是一个境外服务器（用来搭私人专线）与梯子的分享网站）
 
