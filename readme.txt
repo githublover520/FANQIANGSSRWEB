@@ -24,6 +24,7 @@
 （夜无界） yewujie.xyz
 （NGCSS） jiji.pm
 （Vetoo） dally.me
+（928NET） 928net.org
 （Phantom） phantom-n.com
 （一元机场ssr） onessr.me
 （蓝岸） 蓝岸.com 
