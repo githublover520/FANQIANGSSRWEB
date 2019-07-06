@@ -30,6 +30,7 @@
 （蓝岸） 蓝岸.com 
 （v2raypro） v2ray-pro.xyz 
 （Zero云加速） zerocloud.cloud
+（Mr.blank - 奇异之旅） mrblank.us
 （Sakura Cloud） 樱云.net （网站编码地址： yingyun.me）
 
 （DuyaoSS-毒药机场简介） duyaoss.com （只是一个境外服务器（用来搭私人专线）与梯子的分享网站）
