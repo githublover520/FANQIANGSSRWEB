@@ -30,6 +30,7 @@
 （蓝岸） 蓝岸.com 
 （v2raypro） v2ray-pro.xyz 
 （Zero云加速） zerocloud.cloud
+（FQFQ.XYZ） fqfq.xyz  （注册时可能需要邀请码，邀请码：fGBF）
 （Mr.blank - 奇异之旅） mrblank.us
 （Sakura Cloud） 樱云.net （网站编码地址： yingyun.me）
 
