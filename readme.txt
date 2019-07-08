@@ -34,5 +34,4 @@
 （Mr.blank - 奇异之旅） mrblank.us
 （Sakura Cloud） 樱云.net （网站编码地址： yingyun.me）
 
-（DuyaoSS-毒药机场简介） duyaoss.com （只是一个境外服务器（用来搭私人专线）与梯子的分享网站）
-
+（DuyaoSS-毒药机场简介） duyaoss.com （只是一个境外服务器（用来搭私人专线）与梯子的分享网站，GitHub地址： https://github.com/DuyaoSS/SSR/issues/1 ）
