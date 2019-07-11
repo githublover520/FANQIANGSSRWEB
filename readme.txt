@@ -22,7 +22,7 @@
 （X-AIR机场） x-air.icu （注册时可能需要邀请码，邀请码：580FAF6492F4）
 （Nexitally） nexitcore.com 
 （夜无界） yewujie.xyz
-（NGCSS） jiji.pm
+（NGCSS） jiji.im
 （Vetoo） dally.me
 （928NET） 928net.org
 （Phantom） phantom-n.com
