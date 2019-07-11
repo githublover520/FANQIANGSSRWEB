@@ -1,6 +1,6 @@
 免费梯子论坛：
-论坛地址：ssrshare.com
-订阅地址：https://raw.githubusercontent.com/AmazingDM/sub/master/ssrshare.com
+论坛地址： ssrshare.com
+订阅地址： https://raw.githubusercontent.com/AmazingDM/sub/master/ssrshare.com
 
 免费梯子网站：
 （getfree.cloud) getfree.cloud
@@ -30,7 +30,7 @@
 （蓝岸） 蓝岸.com 
 （v2raypro） v2ray-pro.xyz 
 （Zero云加速） zerocloud.cloud
-（FQFQ.XYZ） fqfq.xyz  （注册时可能需要邀请码，邀请码：fGBF）
+（FQFQ.XYZ） fqfq.xyz （注册时可能需要邀请码，邀请码：fGBF）
 （Mr.blank - 奇异之旅） mrblank.us
 （Sakura Cloud） 樱云.net （网站编码地址： yingyun.me）
 
