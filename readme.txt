@@ -9,7 +9,7 @@
 （t.me/SSRSUB） t.me/SSRSUB （自用SSR订阅地址： https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub）
 
 收费梯子网站：
-（海豚湾） hitun.io （注册时可能需要邀请码，邀请码： 邀请码输入框旁公共邀请码按键按下即可获得）
+（海豚湾） 海豚湾.com （注册时可能需要邀请码，邀请码： 邀请码输入框旁公共邀请码按键按下即可获得）
 （喵帕斯） 喵帕斯.com （网站编码地址： xn--i2ru8q2qg.com） （注册时可能需要邀请码，邀请码：CrcMAc9kVmsXWtUJpwIFzo4UwCrf874N） 
 （西部云） ssrvpn.cn 
 （ssrcloud） cxkcloud.com 
