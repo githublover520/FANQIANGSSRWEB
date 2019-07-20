@@ -30,6 +30,7 @@
 （928NET） 928net.org
 （Phantom） phantom-n.com
 （一元机场ssr） onessr.me
+（IPLC - 极致专线） iplc.cloud （注册时可能需要邀请码，邀请码： PL8s）
 （蓝岸） 蓝岸.com 
 （v2raypro） v2ray-pro.xyz 
 （Zero云加速） zerocloud.cloud
