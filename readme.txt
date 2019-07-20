@@ -3,7 +3,7 @@
 订阅地址： https://raw.githubusercontent.com/AmazingDM/sub/master/ssrshare.com
 
 免费梯子网站：
-（getfree.cloud) getfree.cloud
+（getfree.cloud) getfree.cloud （注册时可能需要邀请码，邀请码： 邀请码输入框旁公共邀请码按键按下即可获得（GetfreeCloud））
 （免费EDU学术引擎） wangzi.edu.pl
 （好棒的羊毛站） wohaobang.cn （自用SSR订阅地址： https://miniature-instant-furniture-song.trycloudflare.com）
 （t.me/SSRSUB） t.me/SSRSUB （自用SSR订阅地址： https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub）
@@ -16,6 +16,7 @@
 （DlerCloud） dlercloud.me
 （ssr云加速） ohssr.pro
 （云图小镇） yuntu.ca
+（ADSL.cloud） adsl.cloud （网站为英文，无中文简体版本） （注册时可能需要邀请码，邀请码： 邀请码输入框内点击即可获得）
 （心阶） xinjiecloud.com （注册时可能需要邀请码，邀请码：enshanluntan6663dWZVYGcllK3FTmDggEaSxdXGmzhDE3r）
 （红杏） redyun.cc （注册时可能需要邀请码，邀请码：isa）
 （ssoss） srsrsr.xyz （注册时可能需要邀请码，邀请码：4D110788DCA8）
