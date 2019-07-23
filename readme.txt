@@ -42,3 +42,5 @@
 （DuyaoSS-毒药机场简介） duyaoss.com （只是一个境外服务器（用来搭私人专线）与梯子的分享网站，GitHub地址： https://github.com/DuyaoSS/SSR/issues/1 ）
 
 邀请码过期，网址失效，开个issue呼我一下就行(⋈◍＞◡＜◍)
+
+Telegram联系我 （ https://t.me/FANminiworld ）
