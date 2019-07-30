@@ -42,8 +42,8 @@
 
 （DuyaoSS-毒药机场简介） duyaoss.com （只是一个境外服务器（用来搭私人专线）与梯子的分享网站，GitHub地址： https://github.com/DuyaoSS/SSR/issues/1 ）
 
-GITHUB传送门：
-GITEE传送门：
+GITHUB传送门： https://github.com/FANminiworld/FANQIANGSSRWEB
+GITEE传送门： https://gitee.com/fanminiworld/FANQIANGSSRWEB
 
 邀请码过期，网址失效，开个issue呼我一下就行(⋈◍＞◡＜◍)
 
