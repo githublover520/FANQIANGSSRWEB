@@ -26,7 +26,7 @@
 （夜无界） yewujie.xyz
 （NGCSS） jiji.im
 （Vetoo） dally.me
-（REF.VWALL.XYZ） ref.vwall.xyz （注册时可能需要邀请码，邀请码： vv3h）
+（OKSSR.XYZ） okssr.xyz （注册时可能需要邀请码，邀请码： vv3h）
 （928NET） 928net.org
 （Phantom） phantom-n.com
 （一元机场ssr） onessr.me
@@ -36,10 +36,14 @@
 （傲世星云） asnebula.cf
 （v2raypro） v2ray-pro.xyz 
 （Zero云加速） zerocloud.cloud
+（STC-Server） stc-hk.cool
 （Mr.blank - 奇异之旅） mrblank.us
 （Sakura Cloud） 樱云.net （网站编码地址： yingyun.me）
 
 （DuyaoSS-毒药机场简介） duyaoss.com （只是一个境外服务器（用来搭私人专线）与梯子的分享网站，GitHub地址： https://github.com/DuyaoSS/SSR/issues/1 ）
+
+GITHUB传送门：
+GITEE传送门：
 
 邀请码过期，网址失效，开个issue呼我一下就行(⋈◍＞◡＜◍)
 
