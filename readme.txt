@@ -20,6 +20,7 @@
 （次元链接） cylink.ga
 （MENGDI-Cloud） proxy.insthub.com
 （ssr云加速） ohssr.pw
+（CTCloud） ctcloud.win
 （云图小镇） yuntu.moe
 （ADSL.cloud） adsl.cloud （网站为英文，无中文简体版本） （注册时可能需要邀请码，邀请码： 邀请码输入框内点击即可获得）
 （心阶） xinjiecloud.com （注册时可能需要邀请码，邀请码： enshanluntan6663dWZVYGcllK3FTmDggEaSxdXGmzhDE3r）
@@ -33,6 +34,7 @@
 （Vetoo） dally.me
 （OKSSR.XYZ） okssr.xyz （注册时可能需要邀请码，邀请码： vv3h）
 （928NET） 928net.org
+（CONAIR） conair.me （注册时可能需要邀请码，邀请码： pyRq）
 （Phantom） phantom-n.com
 （一元机场ssr） onessr.me
 （IPLC - 极致专线） iplc.cloud （注册时可能需要邀请码，邀请码： PL8s）
