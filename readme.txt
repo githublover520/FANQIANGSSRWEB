@@ -13,9 +13,9 @@
 （喵帕斯） 喵帕斯.com （网站编码地址： xn--i2ru8q2qg.com） （注册时可能需要邀请码，邀请码： CrcMAc9kVmsXWtUJpwIFzo4UwCrf874N） 
 （西部云） ssrvpn.cn 
 （ssrcloud） cxkcloud.com 
-（DlerCloud） dlercloud.me
+（DlerCloud） dlercloud.com
 （ssr云加速） ohssr.pw
-（云图小镇） yuntu.ca
+（云图小镇） yuntu.moe
 （ADSL.cloud） adsl.cloud （网站为英文，无中文简体版本） （注册时可能需要邀请码，邀请码： 邀请码输入框内点击即可获得）
 （心阶） xinjiecloud.com （注册时可能需要邀请码，邀请码： enshanluntan6663dWZVYGcllK3FTmDggEaSxdXGmzhDE3r）
 （红杏） redyun.cc （注册时可能需要邀请码，邀请码： isa）
