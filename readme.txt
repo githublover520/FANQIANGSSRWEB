@@ -30,7 +30,7 @@
 （X-AIR机场） x-air.icu （注册时可能需要邀请码，邀请码： 580FAF6492F4）
 （Nexitally） nexitcore.com 
 （夜无界） yewujie.xyz
-（NGCSS） jiji.im
+（NGCSS） china.tg
 （Vetoo） dally.me
 （OKSSR.XYZ） okssr.xyz （注册时可能需要邀请码，邀请码： vv3h）
 （928NET） 928net.org
@@ -48,6 +48,8 @@
 （Sakura Cloud） 樱云.net （网站编码地址： yingyun.me）
 
 （DuyaoSS-毒药机场简介） duyaoss.com （只是一个境外服务器（用来搭私人专线）与梯子的分享网站，GitHub地址： https://github.com/DuyaoSS/SSR/issues/1 ）
+（懒得勤快博客） https://masuit.com （苏州思杰马克丁都管不了的博客，因运营商问题，博客只能用https访问且没有针对中国移动的线路优化，博主也禁用了境外IP的访问，加速访问需使用中国大陆IP的网络代理，博主GitHub地址： https://github.com/ldqk  稀缺资源统一下载地址页： https://masuit.com/misc/5  ）
+（聪聪博客） congcong0806.github.io （Telegram 知识： https://congcong0806.github.io/2019/04/11/Telegram/）
 
 GITHUB传送门： https://github.com/FANminiworld/FANQIANGSSRWEB
 GITEE传送门： https://gitee.com/fanminiworld/FANQIANGSSRWEB
