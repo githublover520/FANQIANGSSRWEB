@@ -21,6 +21,7 @@
 （MENGDI-Cloud） proxy.insthub.com
 （ssr云加速） ohssr.pw
 （CTCloud） ctcloud.win
+（潮汐） qaz.moe
 （未知Unknown国际烹饪中心） ssocksage.com （注册时可能需要邀请码，邀请码： 2dJcij764vlv1jR5Mgh7YATIBhcLAb5b）
 （乐享云服务） wlyuji.online
 （云图小镇） yuntu.moe
@@ -51,8 +52,9 @@
 （Sakura Cloud） 樱云.net （网站编码地址： yingyun.me）
 
 （DuyaoSS-毒药机场简介） duyaoss.com （只是一个境外服务器（用来搭私人专线）与梯子的分享网站，GitHub地址： https://github.com/DuyaoSS/SSR/issues/1 ）
-（懒得勤快博客） https://masuit.com （苏州思杰马克丁都管不了的博客，因运营商问题，博客只能用https访问且没有针对中国移动的线路优化，博主也禁用了境外IP的访问，加速访问需使用中国大陆IP的网络代理，博主GitHub地址： https://github.com/ldqk  稀缺资源统一下载地址页： https://masuit.com/misc/5  ）
+（懒得勤快的博客_全栈开发者_互联网分享精神） https://masuit.com （苏州思杰马克丁都管不了的博客，因运营商问题，博客只能用https访问且没有针对中国移动的线路优化，博主也禁用了境外IP的访问，加速访问需使用中国大陆IP的网络代理，博主GitHub地址： https://github.com/ldqk  稀缺资源统一下载地址页： https://masuit.com/misc/5  ）
 （聪聪博客） congcong0806.github.io （Telegram 知识： https://congcong0806.github.io/2019/04/11/Telegram/）
+（MikuTools - 一个轻量的工具集合） tools.imiku.me
 
 GITHUB传送门： https://github.com/FANminiworld/FANQIANGSSRWEB
 GITEE传送门： https://gitee.com/fanminiworld/FANQIANGSSRWEB
