@@ -5,7 +5,7 @@
 免费梯子网站：
 （getfree.cloud) getfree.cloud （注册时可能需要邀请码，邀请码： 邀请码输入框旁公共邀请码按键按下即可获得（GetfreeCloud））
 （免费EDU学术引擎） xs.wangzicloud.com
-（好棒的羊毛站） wohaobang.cn （自用SSR订阅地址： https://miniature-instant-furniture-song.trycloudflare.com）
+（好棒的羊毛站） wohaobang.cn （自用SSR订阅地址： https://yangwangssr.000webhostapp.com ）
 （t.me/SSRSUB） t.me/SSRSUB （自用SSR订阅地址： https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub）
 
 收费梯子网站：
