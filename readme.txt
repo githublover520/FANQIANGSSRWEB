@@ -28,6 +28,7 @@
 （云图小镇） yuntu.moe
 （青青草原蕉太郎） teemojun.top （需通过Google_Chrome浏览器访问，下载地址： https://www.google.cn/chrome） （注册时可能需要邀请码，邀请码： tlQg）
 （ADSL.cloud） adsl.cloud （网站为英文，无中文简体版本） （注册时可能需要邀请码，邀请码： 邀请码输入框内点击即可获得）
+（SSRHUB） myssrhub.com （需通过Google_Chrome浏览器访问，下载地址： https://www.google.cn/chrome）
 （心阶） xinjiecloud.com （注册时可能需要邀请码，邀请码： enshanluntan6663dWZVYGcllK3FTmDggEaSxdXGmzhDE3r）
 （红杏） redyun.cc （注册时可能需要邀请码，邀请码： isa）
 （ssoss） srsrsr.xyz （注册时可能需要邀请码，邀请码： 4D110788DCA8）
