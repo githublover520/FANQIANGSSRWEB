@@ -7,6 +7,8 @@
 
 梯子提供商：
 （rixcloud） rixcloud.com （中国大陆备用网站： onerelay.io ，管理门户网站： xoton.io） （购买Pass Scalable Subscription - Orichalcum、Pass Scalable Subscription - Mithril和Access Subscription - Team（如果可能）产品需要验证商业身份（企业邮箱/工牌/营业执照/股东证明文件/顶级域名等），然后人工审核，请仔细查看商业认证要求条款。商业认证基线要求： https://rixcloudkb.io/business-setup-baseline ，可接受的域名以及企业邮箱后缀（rixCloud 只接受其中的 ICANN Domain 部分，而不接受 PRIVATE Domain 部分）： https://publicsuffix.org/list/public_suffix_list.dat） 
+（ExpressVPN） expressvpn.com （需使用自有客户端） （不支持人民币）
+（NordVPN） nordvpn.com （需使用自有客户端） （不支持人民币）
 （海豚湾） 海豚湾.com （注册时可能需要邀请码，邀请码： 邀请码输入框旁公共邀请码按键按下即可获得）
 （喵帕斯） 喵帕斯.com （网站编码地址： xn--i2ru8q2qg.com） （注册时可能需要邀请码，邀请码： CrcMAc9kVmsXWtUJpwIFzo4UwCrf874N） 
 （西部云） ssrvpn.cn 
@@ -26,7 +28,7 @@
 （乐享云服务） wlyuji.online
 （云图小镇） yuntu.moe
 （青青草原蕉太郎） teemojun.top （需通过Google_Chrome浏览器访问，下载地址： https://www.google.cn/chrome） （注册时可能需要邀请码，邀请码： tlQg）
-（ADSL.cloud） adsl.cloud （网站为英文，无中文简体版本） （注册时可能需要邀请码，邀请码： 邀请码输入框内点击即可获得）
+（ADSL.cloud） adsl.cloud （注册时可能需要邀请码，邀请码： 邀请码输入框内点击即可获得）
 （SSRHUB） myssrhub.com （需通过Google_Chrome浏览器访问，下载地址： https://www.google.cn/chrome）
 （心阶） xinjiecloud.com （注册时可能需要邀请码，邀请码： enshanluntan6663dWZVYGcllK3FTmDggEaSxdXGmzhDE3r）
 （红杏） redyun.cc （注册时可能需要邀请码，邀请码： isa）
