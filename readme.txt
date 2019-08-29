@@ -21,6 +21,7 @@
 （getfree.cloud） getfree.cloud （注册时可能需要邀请码，邀请码： 邀请码输入框旁公共邀请码按键按下即可获得（GetfreeCloud））
 （免费EDU学术引擎） xs.wangzicloud.com
 （Boom.Cloud） boomsso.com
+（酸奶） 999ssr.xyz
 （次元链接） cylink.ga
 （MENGDI-Cloud） proxy.insthub.com
 （ssr云加速） ohssr.icu
