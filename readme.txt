@@ -12,7 +12,8 @@
 （海豚湾） 海豚湾.com （注册时可能需要邀请码，邀请码： 邀请码输入框旁公共邀请码按键按下即可获得）
 （喵帕斯） 喵帕斯.com （网站编码地址： xn--i2ru8q2qg.com） （注册时可能需要邀请码，邀请码： CrcMAc9kVmsXWtUJpwIFzo4UwCrf874N） 
 （西部云） ssrvpn.cn 
-（ssrcloud） cxkcloud.com 
+（THE.SSR） blinkload.net
+（ssrcloud） ieplcloud.com 
 （CordCloud） cordcloud.cc （注册时可能需要邀请码，邀请码： whtJmcrdtnVQXzy7wrx9ycayamx0jlr9）
 （墙洞） dlercloud.com
 （BosLife） ofcourseistillloveyou.org
@@ -66,3 +67,4 @@ GITEE传送门： https://gitee.com/fanminiworld/FANQIANGSSRWEB
 邀请码过期，网址失效，开个issue呼我一下就行(⋈◍＞◡＜◍)
 
 Telegram联系我 （ https://t.me/FANminiworld ）
+
