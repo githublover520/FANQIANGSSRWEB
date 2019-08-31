@@ -10,7 +10,7 @@
 （ExpressVPN） expressvpn.com （需使用自有客户端） （不支持人民币）
 （NordVPN） nordvpn.com （需使用自有客户端） （不支持人民币）
 （Just My Socks） justmysocks.net
-（BACK TO MAINLAND） backtomainland.com （此网站仅提供国内回国节点，无法连接国外服务）
+（BACK TO MAINLAND） backtomainland.com （此网站仅提供国内回国节点，无法连接国外服务，可以BT下载版权内容）
 （海豚湾） 海豚湾.com （注册时可能需要邀请码，邀请码： 邀请码输入框旁公共邀请码按键按下即可获得）
 （喵帕斯） 喵帕斯.com （网站编码地址： xn--i2ru8q2qg.com） （注册时可能需要邀请码，邀请码： CrcMAc9kVmsXWtUJpwIFzo4UwCrf874N） 
 （西部云） ssrvpn.cn 
@@ -28,6 +28,7 @@
 （ssr云加速） ohssr.icu
 （CTCloud） ctcloud.win
 （潮汐） qaz.moe
+（69SSR） s77a.com
 （未知Unknown国际烹饪中心） ssocksage.com （注册时可能需要邀请码，邀请码： 2dJcij764vlv1jR5Mgh7YATIBhcLAb5b）
 （乐享云服务） wlyuji.online
 （云图小镇） yuntu.moe
